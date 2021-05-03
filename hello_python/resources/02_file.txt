@@ -1,0 +1,1 @@
+Congrats, this line is read from hello_python/resources/02_file.txt
